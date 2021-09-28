@@ -1,0 +1,18 @@
+header {
+    background-color: aquamarine;
+    padding: 5px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.input{
+    color:red ;
+}
+
+body{
+    font-family: 'Segoe UI', sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
